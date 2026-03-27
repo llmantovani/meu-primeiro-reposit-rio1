@@ -1,1 +1,1 @@
-# meu-primeiro-reposit-rio1
+oie eu sou o miguel, estudane de analise e desenvolvimento de sistemas!!
