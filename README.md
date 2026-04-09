@@ -1,5 +1,6 @@
 #  Meu Primeiro Repositório
- meu nome é Miguel Mantovani
- 
-## SOBRE MIM: estou cursando analise e desenvolvimento de sistemas em Batatais/SP 
+ _ meu nome é Miguel Mantovani
+ _ tenho 18 amos de idade 
+ _ moro em Altinópolis 
+ _ estou cursando analise e desenvolvimento de sistemas em Batatais/SP 
  
